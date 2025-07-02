@@ -1,2 +1,6 @@
+name = "2025-Williams-Skyrmions_frustrated_quantum_dimers"
+[compat]
+julia = "1.11.5"
+DrWatson = "2.18.0"
 [deps]
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
